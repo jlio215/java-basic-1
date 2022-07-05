@@ -1,0 +1,1 @@
+crear una clase con atributos en java y mostrar en consola.
